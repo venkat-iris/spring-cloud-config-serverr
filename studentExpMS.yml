@@ -4,3 +4,10 @@ stu:
       driverclass: com.mysql.cj.jdbc.Driver
       username: root
       password: venkat
+      
+      
+      
+userdetails:
+    name: venkat iris from
+    edu: MCA Osmaniya from
+    jod: software developer
