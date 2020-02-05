@@ -4,3 +4,8 @@ stu:
       url: jdbc:mysql://localhost:3306/student
       username: root
       password: venkat
+      
+      
+userdetails:
+   name: name from default profile yaml file.
+   edu: edu from default profile yaml file.
