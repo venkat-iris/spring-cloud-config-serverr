@@ -7,5 +7,5 @@ stu:
       
       
 userdetails:
-   name: name from default profile yaml file.
-   edu: edu from default profile yaml file.
+   name: name from venkat default profile yaml file.
+   edu: edu from venkat default profile yaml file.
